@@ -14,3 +14,6 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+
+[![Build Status](https://dev.azure.com/mahimkaushik0911/Integrating%20External/_apis/build/status/mahimkaushik.calculator?branchName=master)](https://dev.azure.com/mahimkaushik0911/Integrating%20External/_build/latest?definitionId=8&branchName=master)
+
